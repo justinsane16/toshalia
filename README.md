@@ -6,7 +6,7 @@ Download Toshalia only from [Releases](../../releases).
 
 ## Check the Discord server for important information before downloading
 
-https://discord.gg/yVuTdkwq9v
+https://discord.gg/nbb7es4bf8
 
 ## Check your download
 

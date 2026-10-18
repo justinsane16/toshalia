@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.4 (beta)
+## 0.1.5 (beta)
 
 - New Discord link.
 

@@ -1,6 +1,12 @@
-# Toshalia
+# Toshalia - Palia Minimap
 
-Toshalia is a free minimap overlay for [Palia](https://palia.com).
+Toshalia is a free minimap overlay for [Palia](https://palia.com) on Windows.
+
+- A minimap in the game window, with villagers, stables and your party.
+- The name and rarity of each fish that you hook.
+- Ore, trees, forageables, bugs and animals on the minimap.
+
+Toshalia only reads the game. It does not change the game and does not connect to the internet.
 
 ## Important
 

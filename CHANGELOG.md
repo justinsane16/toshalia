@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.6 (beta)
+
+- New website: https://justinsane16.github.io/toshalia/
+
 ## 0.1.5 (beta)
 
 - New Discord link.

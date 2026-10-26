@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.8 (beta)
+
+- A caught Ancient Koi shows as Ancient Koi, not "Recipe: Sushi".
+- Fishing: a new "Plush" option blocks left click when a plush is hooked.
+
 ## 0.1.7 (beta)
 
 - All stables in Bahari Bay show on the map.

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.9 (beta)
+
+- Works with the Palia update of 27 October 2026.
+
 ## 0.1.8 (beta)
 
 - A caught Ancient Koi shows as Ancient Koi, not "Recipe: Sushi".

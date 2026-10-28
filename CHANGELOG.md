@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.11 (beta)
+
+- Now also works with the Palia launcher from palia.com
+
 ## 0.1.10 (beta)
 
 - The fish panel and the Plush click-block know the Major Manta Plush.

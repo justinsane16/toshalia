@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.10 (beta)
+
+- The fish panel and the Plush click-block know the Major Manta Plush.
+- The Ancient Flowbug is Uncommon, as in the game.
+- Villager icons match the game update of 27 October 2026.
+
 ## 0.1.9 (beta)
 
 - Works with the Palia update of 27 October 2026.

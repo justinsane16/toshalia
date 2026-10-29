@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.12 (beta)
+
+- Flow Trees show on the map again.
+- Party members show their profile icons again.
+- Infected, Amber and star quality rings show on bugs and animals again.
+
 ## 0.1.11 (beta)
 
 - Now also works with the Palia launcher from palia.com
